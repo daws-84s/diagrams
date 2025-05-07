@@ -7,8 +7,8 @@
         <mxCell id="1VImnYT1DYLdbbFBoMaT-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="370" y="130" width="230" height="510" as="geometry" />
         </mxCell>
-        <mxCell id="1VImnYT1DYLdbbFBoMaT-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="130" width="140" height="490" as="geometry" />
+        <mxCell id="1VImnYT1DYLdbbFBoMaT-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="180" y="130" width="140" height="510" as="geometry" />
         </mxCell>
         <mxCell id="1VImnYT1DYLdbbFBoMaT-8" value="&lt;b&gt;Catalogue&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="430" y="160" width="100" height="60" as="geometry" />
@@ -27,6 +27,14 @@
         </mxCell>
         <mxCell id="1VImnYT1DYLdbbFBoMaT-13" value="&lt;b&gt;Dispatch&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="430" y="560" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIOtt8-YmXhP1134ila-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1VImnYT1DYLdbbFBoMaT-14" target="1VImnYT1DYLdbbFBoMaT-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="350" />
+              <mxPoint x="350" y="190" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="1VImnYT1DYLdbbFBoMaT-14" value="&lt;b&gt;Frontend&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="1" vertex="1">
           <mxGeometry x="200" y="320" width="100" height="60" as="geometry" />
@@ -61,13 +69,19 @@
         <mxCell id="1VImnYT1DYLdbbFBoMaT-16" value="&lt;b&gt;&lt;font style=&quot;color: rgb(227, 36, 255);&quot; face=&quot;Comic Sans MS&quot;&gt;DB Tier&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1VImnYT1DYLdbbFBoMaT-18" vertex="1">
           <mxGeometry x="10" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OrgwwAYgGOUT-hHchfGG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="1VImnYT1DYLdbbFBoMaT-8" target="1VImnYT1DYLdbbFBoMaT-4">
+        <mxCell id="OrgwwAYgGOUT-hHchfGG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="1VImnYT1DYLdbbFBoMaT-8" target="1VImnYT1DYLdbbFBoMaT-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OrgwwAYgGOUT-hHchfGG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="1VImnYT1DYLdbbFBoMaT-9">
+        <mxCell id="OrgwwAYgGOUT-hHchfGG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="1" source="1VImnYT1DYLdbbFBoMaT-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="730" y="210" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FWIOtt8-YmXhP1134ila-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FWIOtt8-YmXhP1134ila-2" target="1VImnYT1DYLdbbFBoMaT-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWIOtt8-YmXhP1134ila-2" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="1">
+          <mxGeometry x="10" y="315" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
