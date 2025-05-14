@@ -1,0 +1,87 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.4">
+  <diagram name="Page-1" id="ah_0wBvwFylcr7ADOr_B">
+    <mxGraphModel dx="1251" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YxgWomt83jvCkDor7a9i-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YxgWomt83jvCkDor7a9i-1" target="YxgWomt83jvCkDor7a9i-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YxgWomt83jvCkDor7a9i-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YxgWomt83jvCkDor7a9i-2" value="&lt;b&gt;permissions&lt;/b&gt;&lt;div&gt;&lt;b&gt;owner&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;size&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;memory locations&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YxgWomt83jvCkDor7a9i-4" value="&lt;b&gt;filename&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="330" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YxgWomt83jvCkDor7a9i-5" value="&lt;b&gt;inode&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YxgWomt83jvCkDor7a9i-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YxgWomt83jvCkDor7a9i-6" target="YxgWomt83jvCkDor7a9i-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YxgWomt83jvCkDor7a9i-6" value="&lt;b&gt;symlink&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YxgWomt83jvCkDor7a9i-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YxgWomt83jvCkDor7a9i-7" target="YxgWomt83jvCkDor7a9i-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YxgWomt83jvCkDor7a9i-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="410" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YxgWomt83jvCkDor7a9i-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YxgWomt83jvCkDor7a9i-6" target="YxgWomt83jvCkDor7a9i-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YxgWomt83jvCkDor7a9i-9" value="&lt;b&gt;inode&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="220" y="290" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YxgWomt83jvCkDor7a9i-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YxgWomt83jvCkDor7a9i-11" target="YxgWomt83jvCkDor7a9i-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YxgWomt83jvCkDor7a9i-11" value="&lt;b&gt;inode&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="400" y="290" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YxgWomt83jvCkDor7a9i-16" value="&lt;b&gt;HD file location&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YxgWomt83jvCkDor7a9i-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YxgWomt83jvCkDor7a9i-18" target="YxgWomt83jvCkDor7a9i-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="645" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YxgWomt83jvCkDor7a9i-18" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="720" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YxgWomt83jvCkDor7a9i-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YxgWomt83jvCkDor7a9i-19" target="YxgWomt83jvCkDor7a9i-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YxgWomt83jvCkDor7a9i-19" value="&lt;b&gt;inode&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="340" y="620" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YxgWomt83jvCkDor7a9i-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YxgWomt83jvCkDor7a9i-21" target="YxgWomt83jvCkDor7a9i-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="645" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YxgWomt83jvCkDor7a9i-21" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="720" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YxgWomt83jvCkDor7a9i-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YxgWomt83jvCkDor7a9i-18" target="YxgWomt83jvCkDor7a9i-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YxgWomt83jvCkDor7a9i-23" value="&lt;b&gt;Hard Link&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="770" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YxgWomt83jvCkDor7a9i-25" value="&lt;b&gt;HD file location&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
