@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.2.0">
+  <diagram name="Page-1" id="JNGjtTDsukZbWz4cB4a4">
+    <mxGraphModel dx="1042" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bD3-PpwRV1jm7D46GyK0-1" value="&lt;b&gt;HardWare&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bD3-PpwRV1jm7D46GyK0-2" value="&lt;b&gt;OS&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bD3-PpwRV1jm7D46GyK0-3" value="&lt;b&gt;Applications&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bD3-PpwRV1jm7D46GyK0-4" value="&lt;b&gt;Physical Server&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="280" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bD3-PpwRV1jm7D46GyK0-5" value="&lt;b&gt;HardWare&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bD3-PpwRV1jm7D46GyK0-15" value="&lt;b&gt;VM&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="280" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bD3-PpwRV1jm7D46GyK0-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="280" y="80" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bD3-PpwRV1jm7D46GyK0-6" value="&lt;b&gt;Hypervisor&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="bD3-PpwRV1jm7D46GyK0-16">
+          <mxGeometry y="80" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bD3-PpwRV1jm7D46GyK0-8" value="&lt;b&gt;Windows&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="bD3-PpwRV1jm7D46GyK0-16">
+          <mxGeometry y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bD3-PpwRV1jm7D46GyK0-9" value="&lt;b&gt;Ubuntu&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="bD3-PpwRV1jm7D46GyK0-16">
+          <mxGeometry x="80" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bD3-PpwRV1jm7D46GyK0-10" value="&lt;b&gt;CentOS&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="bD3-PpwRV1jm7D46GyK0-16">
+          <mxGeometry x="160" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bD3-PpwRV1jm7D46GyK0-11" value="&lt;b&gt;Applications&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="bD3-PpwRV1jm7D46GyK0-16">
+          <mxGeometry width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bD3-PpwRV1jm7D46GyK0-12" value="&lt;b&gt;Applications&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="bD3-PpwRV1jm7D46GyK0-16">
+          <mxGeometry x="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bD3-PpwRV1jm7D46GyK0-13" value="&lt;b&gt;Applications&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="bD3-PpwRV1jm7D46GyK0-16">
+          <mxGeometry x="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bD3-PpwRV1jm7D46GyK0-17" value="&lt;b&gt;HostOS&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bD3-PpwRV1jm7D46GyK0-18" value="&lt;b&gt;HardWare&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="240" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bD3-PpwRV1jm7D46GyK0-19" value="&lt;b&gt;HostOS&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="600" y="200" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bD3-PpwRV1jm7D46GyK0-20" value="&lt;b&gt;2GB&lt;/b&gt;&lt;div&gt;&lt;b&gt;20GB HD&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bD3-PpwRV1jm7D46GyK0-21" value="&lt;b&gt;2GB&lt;/b&gt;&lt;div&gt;&lt;b&gt;20GB HD&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bD3-PpwRV1jm7D46GyK0-22" value="&lt;b&gt;2GB&lt;/b&gt;&lt;div&gt;&lt;b&gt;20GB HD&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bD3-PpwRV1jm7D46GyK0-23" value="&lt;b&gt;Container&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="80" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bD3-PpwRV1jm7D46GyK0-24" value="&lt;b&gt;Container&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="690" y="80" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bD3-PpwRV1jm7D46GyK0-25" value="&lt;b&gt;Container&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="780" y="80" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bD3-PpwRV1jm7D46GyK0-26" value="&lt;b&gt;VM/Physical Server&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="280" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bD3-PpwRV1jm7D46GyK0-27" value="&lt;b&gt;Image = Bare min OS + system packages + Application code and dependencies --&amp;gt; 500Mb&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="525" y="310" width="530" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

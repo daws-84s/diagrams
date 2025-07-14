@@ -1,0 +1,41 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.1">
+  <diagram name="Page-1" id="v4HBo7kqC2F28DNwLezU">
+    <mxGraphModel dx="2063" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rMjF7JMbzA4dHuwk_Ofl-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="320" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="rMjF7JMbzA4dHuwk_Ofl-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
+          <mxGeometry x="381.7" y="120" width="36.59" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rMjF7JMbzA4dHuwk_Ofl-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Unicons_Line_vol_3-2965/docker-1335.svg" vertex="1" parent="1">
+          <mxGeometry x="470" y="150" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rMjF7JMbzA4dHuwk_Ofl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rMjF7JMbzA4dHuwk_Ofl-4" target="rMjF7JMbzA4dHuwk_Ofl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rMjF7JMbzA4dHuwk_Ofl-4" value="host&lt;div&gt;port&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="210" y="165" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rMjF7JMbzA4dHuwk_Ofl-5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="175" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rMjF7JMbzA4dHuwk_Ofl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.017;entryY=0.444;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rMjF7JMbzA4dHuwk_Ofl-5" target="rMjF7JMbzA4dHuwk_Ofl-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="211" y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rMjF7JMbzA4dHuwk_Ofl-8" value="&lt;b&gt;80&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="245" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rMjF7JMbzA4dHuwk_Ofl-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Unicons_Line_vol_3-2965/docker-1335.svg" vertex="1" parent="1">
+          <mxGeometry x="425" y="225" width="60" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
